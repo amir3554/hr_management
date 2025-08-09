@@ -1,1 +1,1 @@
-This is a Django REST API project that is a platform where the managers of a complany can manage and the projects and emoloyees  (i am currently working on )
+This is a Django REST API (serializers) project that is a platform where the managers of a company can manage the projects and the emoloyees and their tasks (i am currently working on )
